@@ -4,7 +4,7 @@ module.exports = {
     title: `Alice Won`,
     author: `Alice Won`,
     description: `Learn About Alice. A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://alicewon.netlify.com/`,
     social: {
       twitter: `kylemathews`,
     },
@@ -64,7 +64,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+         trackingId: `UA-165427715-1`,
       },
     },
     {

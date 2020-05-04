@@ -1,5 +1,5 @@
 backend:
-  name: alicewon
+  name: github
   repo: alicewon/aliceportfoliosite
 
 media_folder: static/assets
